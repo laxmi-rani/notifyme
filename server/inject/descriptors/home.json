@@ -11,6 +11,11 @@
       "type": "action",
       "selector": "[name=\"btnK\"]",
       "control": "action.button"
+    },
+    "isGoogle": {
+      "type": "identifier",
+      "selector": "#hplogo",
+      "control": "exists"
     }
   },
   "connect": []
