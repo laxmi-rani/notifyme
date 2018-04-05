@@ -14,9 +14,18 @@
     },
     "isGoogle": {
       "type": "identifier",
-      "selector": "#hplogo",
+      "selector": "#viewport",
       "control": "exists"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isGoogle"
+      ],
+      "screens": [
+        "blank"
+      ]
+    }
+  ]
 }
