@@ -1,0 +1,10 @@
+{
+  "name": "notifyme",
+  "version": "5.2.14-chrome",
+  "private": true,
+  "description": "PowWow transformation",
+  "main": "start.js",
+  "scripts": {
+    "start": "nodemon start.js | bunyan -o short --color"
+  }
+}
