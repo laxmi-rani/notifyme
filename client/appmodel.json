@@ -1,1 +1,14 @@
-{}
+{
+  "home": {
+    "type": "object",
+    "comment": "Home",
+    "properties": {
+      "search": {
+        "type": "string"
+      },
+      "searchbutton": {
+        "type": "action"
+      }
+    }
+  }
+}
