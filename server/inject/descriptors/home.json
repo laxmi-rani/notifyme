@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "comment": "Home",
+  "properties": {
+    "search": {
+      "type": "string",
+      "selector": "#lst-ib",
+      "control": "text"
+    },
+    "searchbutton": {
+      "type": "action"
+    }
+  },
+  "connect": []
+}
