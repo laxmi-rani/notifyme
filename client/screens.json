@@ -7,13 +7,15 @@
       "id": "blank",
       "name": "BLANK",
       "sourceAppId": "_blank",
-      "sourceScreenId": "app.blank"
+      "sourceScreenId": "app.blank",
+      "model": "home"
     },
     {
       "id": "menu",
       "name": "menu",
       "sourceAppId": "_blank",
-      "sourceScreenId": "app.menu"
+      "sourceScreenId": "app.menu",
+      "model": "home"
     },
     {
       "id": "multiselect",
