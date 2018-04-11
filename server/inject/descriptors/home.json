@@ -26,6 +26,12 @@
       "screens": [
         "blank"
       ]
+    },
+    {
+      "match": [
+        "isGoogle"
+      ],
+      "event": "triggerWorkday"
     }
   ]
 }
