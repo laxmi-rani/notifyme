@@ -24,14 +24,6 @@
         "isGoogle"
       ],
       "event": "triggerWorkday"
-    },
-    {
-      "match": [
-        "isGoogle"
-      ],
-      "screens": [
-        "blank"
-      ]
     }
   ]
 }
