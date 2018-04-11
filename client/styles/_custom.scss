@@ -2,11 +2,7 @@ $width_label : 50%;
 $calm: #90CCE5;
 $dark: #444;
 
-label{
-width:$width_label;    
-background-color:$dark;  
-color:$dark;
-}
+
 input[type="text"]{
     width:$width_label;    
 background-color:$dark;  
