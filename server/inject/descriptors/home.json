@@ -26,7 +26,9 @@
       "event": "triggerWorkday"
     },
     {
-      "match": [],
+      "match": [
+        "isGoogle"
+      ],
       "screens": [
         "blank"
       ]
