@@ -4,6 +4,6 @@ function app_blank($scope, app) {
     app.init($scope);
     
     $scope.apiCalls = function(){
-        app.call('login.login');
+        app.call('index.triggerworkday');
     }
 }
