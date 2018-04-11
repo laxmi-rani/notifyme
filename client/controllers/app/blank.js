@@ -3,7 +3,7 @@ function app_blank($scope, app) {
     'use strict';
     app.init($scope);
     
-    $scope.apiCalls = function(){
-        app.call('index.triggerworkday');
-    }
+   
+    
+    
 }
