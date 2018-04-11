@@ -23,7 +23,7 @@
       "match": [
         "isGoogle"
       ],
-      "event": "triggerWorkday"
+      "event": "triggerworkday"
     }
   ]
 }
