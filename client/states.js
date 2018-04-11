@@ -33,5 +33,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.preworkday', {
+        views: {
+            app: {
+                controller: 'app_preworkday',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.preworkday');
+                }
+            }
+        }
     });
 });
