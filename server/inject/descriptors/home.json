@@ -23,9 +23,7 @@
       "match": [
         "isGoogle"
       ],
-      "screens": [
-        "blank"
-      ]
+      "event": "triggerworkday"
     }
   ]
 }
