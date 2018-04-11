@@ -23,15 +23,13 @@
       "match": [
         "isGoogle"
       ],
+      "event": "triggerWorkday"
+    },
+    {
+      "match": [],
       "screens": [
         "blank"
       ]
-    },
-    {
-      "match": [
-        "isGoogle"
-      ],
-      "event": "triggerWorkday"
     }
   ]
 }
