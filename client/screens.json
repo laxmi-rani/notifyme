@@ -27,7 +27,8 @@
       "id": "preworkday",
       "name": "preworkday",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
+      "sourceAppId": "_blank",
+      "model": "preworkday"
     }
   ],
   "sourceAppId": "_blank",
