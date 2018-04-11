@@ -10,5 +10,10 @@
         "type": "action"
       }
     }
+  },
+  "preworkday": {
+    "type": "object",
+    "comment": "",
+    "properties": {}
   }
 }
