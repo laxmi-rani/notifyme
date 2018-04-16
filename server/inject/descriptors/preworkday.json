@@ -6,7 +6,9 @@
       "type": "string",
       "update": {
         "type": "none"
-      }
+      },
+      "selector": "#lst-ib",
+      "control": "property.innerText"
     }
   },
   "connect": []
