@@ -14,8 +14,8 @@
     },
     "isGoogleIdentifier": {
       "type": "identifier",
-      "selector": "[name=\"btnK\"]",
-      "control": "action.button"
+      "selector": "body",
+      "control": "exists"
     }
   },
   "connect": []
