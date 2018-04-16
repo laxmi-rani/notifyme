@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "msg": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    }
+  },
+  "connect": []
+}
