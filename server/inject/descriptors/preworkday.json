@@ -13,7 +13,7 @@
     "isPreworkday": {
       "type": "identifier",
       "selector": "body",
-      "control": "action.button"
+      "control": "exists"
     }
   },
   "connect": []
