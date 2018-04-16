@@ -3,7 +3,9 @@
   "comment": "Home",
   "properties": {
     "search": {
-      "type": "string"
+      "type": "string",
+      "selector": "#lst-ib",
+      "control": "property.innerText"
     },
     "searchbutton": {
       "type": "action"
