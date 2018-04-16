@@ -23,14 +23,6 @@
       "match": [
         "isGoogleIdentifier"
       ],
-      "screens": [
-        "home"
-      ]
-    },
-    {
-      "match": [
-        "isGoogleIdentifier"
-      ],
       "event": "triggerworkday"
     }
   ]
