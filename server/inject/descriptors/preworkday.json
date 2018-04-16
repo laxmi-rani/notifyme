@@ -16,5 +16,14 @@
       "control": "exists"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isPreworkday"
+      ],
+      "screens": [
+        "preworkday"
+      ]
+    }
+  ]
 }
