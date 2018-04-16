@@ -5,7 +5,7 @@
   "screens": [
     {
       "id": "home",
-      "name": "Home",
+      "name": "home",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.blank",
       "model": "home"
