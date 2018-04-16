@@ -14,7 +14,7 @@
     },
     "isGoogle": {
       "type": "identifier",
-      "selector": "#viewport",
+      "selector": "body",
       "control": "exists"
     }
   },
