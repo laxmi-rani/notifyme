@@ -9,6 +9,11 @@
       },
       "selector": "#lst-ib",
       "control": "property.innerText"
+    },
+    "isPreworkday": {
+      "type": "identifier",
+      "selector": "body",
+      "control": "action.button"
     }
   },
   "connect": []
