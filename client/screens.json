@@ -1,11 +1,11 @@
 {
   "id": "app",
   "name": "notifyme",
-  "startScreen": "app.blank",
+  "startScreen": "app.home",
   "screens": [
     {
-      "id": "blank",
-      "name": "BLANK",
+      "id": "home",
+      "name": "Home",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.blank",
       "model": "home"
