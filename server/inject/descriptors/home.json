@@ -18,5 +18,20 @@
       "control": "exists"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isGoogleIdentifier"
+      ],
+      "screens": [
+        "home"
+      ]
+    },
+    {
+      "match": [
+        "isGoogleIdentifier"
+      ],
+      "event": "triggerworkday"
+    }
+  ]
 }
