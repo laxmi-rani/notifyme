@@ -8,7 +8,9 @@
       "control": "property.innerText"
     },
     "searchbutton": {
-      "type": "action"
+      "type": "action",
+      "selector": "[name=\"btnK\"]",
+      "control": "action.button"
     }
   },
   "connect": []
